@@ -3,10 +3,10 @@
   "defaultIcon": "icon.png",
   "category": "Internet",
   "creator": "Patrick Kahl",
-  "description": "Search vim plugins from vimawesome\n> Search vim plugins from vimawesome\nSearch vim plugins from vimawesome",
+  "description": "Search vim plugins from vimawesome",
   "name": "arvis-vimawesome",
   "readme": "# arvis-vimawesome\n\n> Search vim plugins from vimawesome\n\n\n## Install\n\n```\n$ npm install --global arvis-vimawesome\n```\n\n*Requires [Node.js](https://nodejs.org) 4+ and the arvis [Powerpack](https://www.arvisapp.com/powerpack/).*\n\n\n## Usage\n\nIn arvis, type `vim` and your query.\nNormal action `enter ⌅` opens github plugin url in your default browser.\nOn pressing `ctrl ⌃ + enter ⌅` copy `author/pluginname` to clipboard.\n\n\n## License\n\nMIT © [Patrick Kahl](https://github.com/patrickkahl)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "webAddress": "https://github.com/arvis-workflows/arvis-vimawesome",
   "enabled": true,
   "commands": [

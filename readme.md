@@ -9,9 +9,6 @@
 $ npm install --global arvis-vimawesome
 ```
 
-*Requires [Node.js](https://nodejs.org) 4+ and the arvis [Powerpack](https://www.arvisapp.com/powerpack/).*
-
-
 ## Usage
 
 In arvis, type `vim` and your query.
